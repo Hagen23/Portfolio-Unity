@@ -7,13 +7,13 @@ The plugin was used to create two video-games:
 
 For the hand tracking, a modelling game:
 
-<a href="https://www.youtube.com/watch?v=4Xquc4MOBY8" target="_blank"><img src="http://img.youtube.com/vi/4Xquc4MOBY8/0.jpg" 
-alt="Modelling Game" width="800" height="600" border="10" /></a>
+<div><a href="https://www.youtube.com/watch?v=4Xquc4MOBY8" target="_blank"><img src="http://img.youtube.com/vi/4Xquc4MOBY8/0.jpg" 
+alt="Modelling Game" width="800" height="600" border="10" /></a></div>
 
 and for the MOCAP, a game where you control a car and an airplane with body postures. Several gestures were detected, such as raising the arms, or flexing.
 
-<a href="https://www.youtube.com/watch?v=RSJME_Hk8eg" target="_blank"><img src="http://img.youtube.com/vi/RSJME_Hk8eg/0.jpg" 
-alt="MOCAP Game" width="800" height="600" border="10" /></a>
+<div><a href="https://www.youtube.com/watch?v=RSJME_Hk8eg" target="_blank"><img src="http://img.youtube.com/vi/RSJME_Hk8eg/0.jpg" 
+alt="MOCAP Game" width="800" height="600" border="10" /></a></div>
 
 The project contains three scenes where several lighting effects, as well as the post-processing stack, have been implemented. 
 
