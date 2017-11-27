@@ -19,7 +19,7 @@ The project contains three scenes where several lighting effects, as well as the
 
 The first scene is a simple box with objects, where three light sources are in play. 
 
-<img align="left" src="Images/Basic_lighting.png" width="95%"/>
+<img align="left" src="Images/Basic_lighting.png" width="97%"/>
 
 The second is a low-poly valley, with several elements, including a lake. 
 
