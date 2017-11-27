@@ -27,9 +27,19 @@ The second is a low-poly valley, with several elements, including a lake.
 ![Low Poly Forest](Images/Lowpoly_forest_3.png "Low Poly Forest")
 ![Low Poly Lake](Images/Lowpoly_lake.png "Low Poly Lake")
 
+A sample video with the project running can be seen here:
+
+<div><a href="https://youtu.be/pkR2M54Y6D8" target="_blank"><img src="http://img.youtube.com/vi/pkR2M54Y6D8/0.jpg" 
+alt="Low Poly" width="600" height="400" border="10" /></a></div>
+
 The final scene is a Sci-fi landing dock, with more complex lighting.
 
 ![Sci-fi overview](Images/Scifi_overview.png "Sci-fi overview")
 ![Sci-fi desk](Images/Scifi_desk.png "Sci-fi desk")
 ![Sci-fi ship](Images/Scifi_ship.png "Sci-fi ship")
 ![Sci-fi energy wall](Images/Scifi_energy_wall.png "Sci-fi energy wall")
+
+A sample video with the Sci-fi scene can be seen here:
+
+<div><a href="https://youtu.be/yIQQ0x2lj-4" target="_blank"><img src="http://img.youtube.com/vi/yIQQ0x2lj-4/0.jpg" 
+alt="Scifi" width="600" height="400" border="10" /></a></div>
