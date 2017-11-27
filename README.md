@@ -20,7 +20,8 @@ The project included in this repository contains three scenes where several ligh
 
 The first scene is a simple box with objects, where three light sources are in play. 
 
-<img align="left" src="Images/Basic_lighting.png" width="97.5%"/>
+<!-- <img align="left" src="Images/Basic_lighting.png" width="97.5%"/> -->
+![Basic Lighting Scene](Images/Basic_lighting.png "Basic Lighting Scene")
 
 
 The second is a low-poly valley, with several elements, including a lake. 
