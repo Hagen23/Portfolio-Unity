@@ -20,20 +20,16 @@ The project included in this repository contains three scenes where several ligh
 
 The first scene is a simple box with objects, where three light sources are in play. 
 
-<!-- <img align="left" src="Images/Basic_lighting.png" width="97.5%"/> -->
 ![Basic Lighting Scene](Images/Basic_lighting.png "Basic Lighting Scene")
-
 
 The second is a low-poly valley, with several elements, including a lake. 
 
-<img align="left" src="Images/Lowpoly_forest_3.png" width="97.5%"/>
-
-<img align="left" src="Images/Lowpoly_lake.png" width="97.5%"/>
+![Low Poly Forest](Images/Lowpoly_forest_3.png "Low Poly Forest")
+![Low Poly Lake](Images/Lowpoly_lake.png "Low Poly Lake")
 
 The final scene is a Sci-fi landing dock, with more complex lighting.
 
-<img align="left" src="Images/Scifi_overview.png" width="97.5%"/>
-
-<img align="left" src="Images/Scifi_desk.png" width="97.5%"/>
-
-<img align="left" src="Images/Scifi_ship.png" width="97.5%"/>
+![Sci-fi overview](Images/Scifi_overview.png "Sci-fi overview")
+![Sci-fi desk](Images/Scifi_desk.png "Sci-fi desk")
+![Sci-fi ship](Images/Scifi_ship.png "Sci-fi ship")
+![Sci-fi energy wall](Images/Scifi_energy_wall.png "Sci-fi energy wall")
