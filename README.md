@@ -26,10 +26,13 @@ The first scene is a simple box with objects, where three light sources are in p
 The second is a low-poly valley, with several elements, including a lake. 
 
 <img align="left" src="Images/Lowpoly_forest_3.png" width="97.5%"/>
+
 <img align="left" src="Images/Lowpoly_lake.png" width="97.5%"/>
 
 The final scene is a Sci-fi landing dock, with more complex lighting.
 
-<img align="left" src="Images/Scifi_overview.png" width="31%"/> 
-<img align="left" src="Images/Scifi_desk.png" width="31%"/> 
-<img align="left" src="Images/Scifi_ship.png" width="31%"/> 
+<img align="left" src="Images/Scifi_overview.png" width="97.5%"/>
+
+<img align="left" src="Images/Scifi_desk.png" width="97.5%"/>
+
+<img align="left" src="Images/Scifi_ship.png" width="97.5%"/>
